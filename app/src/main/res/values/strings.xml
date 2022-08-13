@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DynamicTiming</string>
+    <string name="number">0</string>
+    <string name="add">4000</string>
+    <string name="sub">0</string>
+    <string name="oneHundred">-100</string>
+    <string name="fiveHundred">-500</string>
+    <string name="oneThousand">-1000</string>
+</resources>
